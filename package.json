@@ -1,0 +1,18 @@
+{
+  "name": "mt-seed-cli",
+  "version": "0.0.1",
+  "description": "项目脚手架导出工具",
+  "main": "index.js",
+  "bin": {
+    "mt-seed": "bin/mt-seed.js"
+  },
+  "author": "montht",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^2.19.0",
+    "download-git-repo": "^1.1.0",
+    "inquirer": "^6.2.2",
+    "ora": "^3.2.0"
+  }
+}
