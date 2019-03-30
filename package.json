@@ -1,6 +1,6 @@
 {
   "name": "mt-seed-cli",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "项目脚手架导出工具",
   "main": "index.js",
   "bin": {
